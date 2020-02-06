@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!DOCTYPE tmx SYSTEM "tmx13.dtd">
+<tmx version="1.3">
+  <header
+    creationtool="WebTranslateIt.com"
+    creationtoolversion="1.5"
+    datatype="PlainText"
+    segtype="sentence"
+    adminlang="en-us"
+    srclang="EN"
+    creationdate="2020-01-29 11:23:16 +0100"
+    o-encoding="UTF-8"
+    o-tmf="WTI"
+  >
+  </header>
+   
+  <body>
+    <tu tuid="4e9e04c445a1d8683c34bd07312a5bfb41ae068a">
+      <tuv lang="en" xml:lang="en">
+        <seg>La traducció d’anglès a galès proporciona l’accés més còmode al servei de traducció en línia alimentat per diversos motors de traducció automàtica. L’eina de traducció de l’anglès al gal·lès inclou servei de traducció en línia, servei de veu a text a l’anglès, eina de correcció ortogràfica a l’anglès, teclat a la pantalla per a idiomes principals, traducció posterior, client de correu electrònic i molt més. L’entorn de traducció més convenient que s’ha creat mai. La traducció d’anglès a galès proporciona l’accés més còmode al servei de traducció en línia alimentat per diversos motors de traducció automàtica. L’eina de traducció de l’anglès al gal·lès inclou servei de traducció en línia, servei de veu a text a l’anglès, eina de correcció ortogràfica a l’anglès, teclat a la pantalla per a idiomes principals, traducció posterior, client de correu electrònic i molt més. L’entorn de traducció més convenient que s’ha creat mai.&quot; </seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
